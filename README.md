@@ -40,6 +40,11 @@ src/
 ```
 
 ---
+The site is live at: https://prod-mission1.vercel.app
+---
+site screenshot:
+![alt text](src/assets/site-screenshot.png)
+---
 
 ## ⚙️ Installation & Setup
 
