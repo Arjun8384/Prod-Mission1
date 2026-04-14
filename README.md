@@ -38,6 +38,12 @@ src/
  ├── main.jsx
  └── index.css
 ```
+---
+The site is live at:
+https://prod-mission1.vercel.app
+---
+site screenshot:
+<img width="1895" height="963" alt="image" src="https://github.com/user-attachments/assets/6689b160-1a32-473c-b3b7-ac6742c9de73" />
 
 ---
 The site is live at: https://prod-mission1.vercel.app
